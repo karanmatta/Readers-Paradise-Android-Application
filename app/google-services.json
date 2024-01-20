@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948965675113",
+    "project_id": "readers-paradise-a40cc",
+    "storage_bucket": "readers-paradise-a40cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948965675113:android:d971979ee446cd862692f8",
+        "android_client_info": {
+          "package_name": "com.example.readersparadise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuG33_qDY-W66N6MCHm7Y9qvZvlFhhNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
